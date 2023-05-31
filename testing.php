@@ -18,4 +18,6 @@
 	$hari[] = "Kamis";
 	echo "<br>";
 	print($hari);
+
+
 ?>
